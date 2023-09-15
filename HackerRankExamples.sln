@@ -13,6 +13,8 @@ Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "NumberToWords", "NumberToWo
 EndProject
 Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "NumberToRoman", "NumberToRoman\NumberToRoman.csproj", "{9D23B514-6F35-4093-B0E6-1B036F60009F}"
 EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "RomanToNumber", "RomanToNumber\RomanToNumber.csproj", "{2C22DECD-4AB0-46D0-BCB0-D60764ADBC76}"
+EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution
 		Debug|Any CPU = Debug|Any CPU
@@ -39,6 +41,10 @@ Global
 		{9D23B514-6F35-4093-B0E6-1B036F60009F}.Debug|Any CPU.Build.0 = Debug|Any CPU
 		{9D23B514-6F35-4093-B0E6-1B036F60009F}.Release|Any CPU.ActiveCfg = Release|Any CPU
 		{9D23B514-6F35-4093-B0E6-1B036F60009F}.Release|Any CPU.Build.0 = Release|Any CPU
+		{2C22DECD-4AB0-46D0-BCB0-D60764ADBC76}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{2C22DECD-4AB0-46D0-BCB0-D60764ADBC76}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{2C22DECD-4AB0-46D0-BCB0-D60764ADBC76}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{2C22DECD-4AB0-46D0-BCB0-D60764ADBC76}.Release|Any CPU.Build.0 = Release|Any CPU
 	EndGlobalSection
 	GlobalSection(SolutionProperties) = preSolution
 		HideSolutionNode = FALSE
