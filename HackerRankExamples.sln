@@ -19,6 +19,8 @@ Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "BinarySearch", "BinarySearc
 EndProject
 Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Practice", "Practice\Practice.csproj", "{53C7746C-2BDA-40B9-ACF8-EC2CC9738EFB}"
 EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "MostFrequentElement", "MostFrequentElement\MostFrequentElement.csproj", "{590E4BE5-F9CB-4CBF-B165-A0F28A333F50}"
+EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution
 		Debug|Any CPU = Debug|Any CPU
@@ -57,6 +59,10 @@ Global
 		{53C7746C-2BDA-40B9-ACF8-EC2CC9738EFB}.Debug|Any CPU.Build.0 = Debug|Any CPU
 		{53C7746C-2BDA-40B9-ACF8-EC2CC9738EFB}.Release|Any CPU.ActiveCfg = Release|Any CPU
 		{53C7746C-2BDA-40B9-ACF8-EC2CC9738EFB}.Release|Any CPU.Build.0 = Release|Any CPU
+		{590E4BE5-F9CB-4CBF-B165-A0F28A333F50}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{590E4BE5-F9CB-4CBF-B165-A0F28A333F50}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{590E4BE5-F9CB-4CBF-B165-A0F28A333F50}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{590E4BE5-F9CB-4CBF-B165-A0F28A333F50}.Release|Any CPU.Build.0 = Release|Any CPU
 	EndGlobalSection
 	GlobalSection(SolutionProperties) = preSolution
 		HideSolutionNode = FALSE
