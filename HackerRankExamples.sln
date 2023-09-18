@@ -17,9 +17,11 @@ Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "RomanToNumber", "RomanToNum
 EndProject
 Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "BinarySearch", "BinarySearch\BinarySearch.csproj", "{76D215FF-5965-402F-A081-D9816779D82F}"
 EndProject
-Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Practice", "Practice\Practice.csproj", "{53C7746C-2BDA-40B9-ACF8-EC2CC9738EFB}"
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "Practice", "Practice\Practice.csproj", "{53C7746C-2BDA-40B9-ACF8-EC2CC9738EFB}"
 EndProject
-Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "MostFrequentElement", "MostFrequentElement\MostFrequentElement.csproj", "{590E4BE5-F9CB-4CBF-B165-A0F28A333F50}"
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "MostFrequentElement", "MostFrequentElement\MostFrequentElement.csproj", "{590E4BE5-F9CB-4CBF-B165-A0F28A333F50}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Turnstile", "Turnstile\Turnstile.csproj", "{5C434610-6EFF-4907-9A08-51C3AB6069F2}"
 EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution
@@ -63,6 +65,10 @@ Global
 		{590E4BE5-F9CB-4CBF-B165-A0F28A333F50}.Debug|Any CPU.Build.0 = Debug|Any CPU
 		{590E4BE5-F9CB-4CBF-B165-A0F28A333F50}.Release|Any CPU.ActiveCfg = Release|Any CPU
 		{590E4BE5-F9CB-4CBF-B165-A0F28A333F50}.Release|Any CPU.Build.0 = Release|Any CPU
+		{5C434610-6EFF-4907-9A08-51C3AB6069F2}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{5C434610-6EFF-4907-9A08-51C3AB6069F2}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{5C434610-6EFF-4907-9A08-51C3AB6069F2}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{5C434610-6EFF-4907-9A08-51C3AB6069F2}.Release|Any CPU.Build.0 = Release|Any CPU
 	EndGlobalSection
 	GlobalSection(SolutionProperties) = preSolution
 		HideSolutionNode = FALSE
